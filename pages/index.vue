@@ -22,9 +22,7 @@ import { useCountdown } from "@/composables/useCountdown";
 
 useHead({
   title: "Coming Soon | TradeOne",
-  link: [
-    { rel: "icon", type: "image/png", href: "../assets/imgs/favicon.png" },
-  ],
+  link: [{ rel: "icon", type: "image/png", href: "/assets/imgs/favicon.png" }],
 });
 
 definePageMeta({
