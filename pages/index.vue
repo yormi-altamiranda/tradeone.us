@@ -5,7 +5,7 @@
       <h1
         class="mt-4 text-balance text-3xl font-semibold tracking-tight text-gray-900 sm:text-7xl"
       >
-        Coming Soon New!
+        Coming Soon New.!
       </h1>
       <div class="mt-10 flex items-center justify-center gap-x-6">
         <p class="text-3xl text-green-500 font-medium">{{ days }}d</p>
